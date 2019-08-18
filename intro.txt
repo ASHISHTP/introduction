@@ -1,0 +1,3 @@
+Hello there , 
+this is Ashish Patel
+this is my first git repo.
